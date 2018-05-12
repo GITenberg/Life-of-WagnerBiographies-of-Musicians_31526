@@ -1,0 +1,41 @@
+_repo: Life-of-WagnerBiographies-of-Musicians_31526
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+covers:
+- cover_type: archival
+  image_path: 31526-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Louis
+    - Nohl, Karl Friedrich Ludwig
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia: http://de.wikipedia.org/wiki/Ludwig_Nohl
+description: ''
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31526'
+  lccn: '06006356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wagner, Richard, 1813-1883'
+- !lcc 'ML'
+title: 'Life of Wagner
+
+  Biographies of Musicians'
+url: http://www.gutenberg.org/ebooks/31526
