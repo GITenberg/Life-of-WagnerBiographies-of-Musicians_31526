@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Wagner, Richard, 1813-1883'
 - !lcc 'ML'
+- GITenberg
 title: 'Life of Wagner
 
   Biographies of Musicians'
